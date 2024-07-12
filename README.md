@@ -8,7 +8,7 @@
 -  *Fun fact I am Cool*
 
 <p align="left">
-<hr style="height: 2px;">
+
 
 
 <h3 align="left">Languages and Tools:</h3>
