@@ -1,12 +1,11 @@
 <h1 align="center">Hi I am Sticky</h1>
 - 🔭 I’m currently working on a game named weird Rpg (https://github.com/StickyCoolDev/Weird-Rpg)
 
-- 🌱 I’m currently learning ***Godot***
+- 🌱 I’m currently learning**Godot**
 
 - 🤝 I’m looking for help with [Weird Rpg](https://github.com/StickyCoolDev/Weird-Rpg)
 
 -  *Fun fact I am Cool*
-
 
 <p align="left">
 <hr style="height: 2px;">
