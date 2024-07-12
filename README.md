@@ -1,8 +1,15 @@
- 👋 Hi, I’m @StickyCoolDev and im game developer I’m interested in 
-making nice games  I’m still learning . i use the Godot game engine
+<h1 align="center">Hi I am Sticky</h1>
+- 🔭 I’m currently working on [on a game named weird Rpg](https://github.com/StickyCoolDev/Weird-Rpg)
 
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F6%2F6a%2FGodot_icon.svg%2F2048px-Godot_icon.svg.png&tbnid=YC4Mw5HpN4nLjM&vet=1&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AGodot_icon.svg&docid=RLqwvlY_21N4aM&w=2048&h=2048&hl=en-GB&source=sh%2Fx%2Fim%2Fm6%2F4&kgs=180a1395db76694d&shem=abme%2Ctrie" alt="Image description">
+- 🌱 I’m currently learning **Godot**
 
+- 🤝 I’m looking for help with [Weird Rpg](https://github.com/StickyCoolDev/Weird-Rpg)
 
+- ⚡ Fun fact **I am Cool😎**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
