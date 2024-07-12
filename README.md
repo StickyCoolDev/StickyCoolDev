@@ -9,7 +9,7 @@
 
 
 <p align="left">
-<hr style="height: 5px;">
+<hr style="height: 2px;">
 
 
 <h3 align="left">Languages and Tools:</h3>
