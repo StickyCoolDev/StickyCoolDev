@@ -1,3 +1,4 @@
+<hr>
 <h1 align="center">Hi I am Sticky</h1>
 - 🔭 I’m currently working on a game named weird Rpg (https://github.com/StickyCoolDev/Weird-Rpg)
 
