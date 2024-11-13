@@ -1,4 +1,5 @@
-# Hi I am Sticky
+
+<h1 align="center">Hi I am Sticky</h1>
 I am a student.I'm programming for 4 years.join me on **cool** world of programming
 
 <h2 align="center">most used languages </h2>
