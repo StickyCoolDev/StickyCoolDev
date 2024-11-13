@@ -8,8 +8,6 @@
 
 
 <h1 align="center">Repository I need help with</h1>
-1. [Arduino-beginners](https://github.com/StickyCoolDev/Arduino-beginners)
-[led and button](https://github.com/StickyCoolDev/Arduino-beginners/blob/main/Project%201/project1.md#button-and-led)
-
+1. <a href="https://github.com/StickyCoolDev/Arduino-beginners">
  
 
