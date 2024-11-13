@@ -8,7 +8,7 @@
 
 
 <h1 align="center">Repository I need help with</h1>
-1. ![Arduino-beginners](https://github.com/StickyCoolDev/Arduino-beginners)
+1. [Arduino-beginners](https://github.com/StickyCoolDev/Arduino-beginners)
 
  
 
