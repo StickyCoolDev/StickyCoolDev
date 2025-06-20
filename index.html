@@ -1,0 +1,265 @@
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>StickyCoolDev | Hujaifa Hanif Shainik</title>
+<style>
+body {
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+line-height: 1.7;
+margin: 0;
+padding: 0;
+background-color: #f4f4f4;
+color: #333;
+scroll-behavior: smooth;
+}
+    /* Header Section */
+    header {
+        background: linear-gradient(rgba(255, 113, 0, 1), rgba(255, 166, 0, 0.6)), url('[https://images.unsplash.com/photo-1518770660439-4636190af475?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80](https://images.unsplash.com/photo-1518770660439-4636190af475?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80)'); /* Replace with your image URL */
+        background-size: cover;
+        background-position: center;
+        color: #fff;
+        text-align: center;
+        min-height: 100vh;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 20px;
+    }
+
+    header h1 {
+        font-size: 3em;
+        margin-bottom: 10px;
+        opacity: 0;
+        transform: translateY(-20px);
+        animation: fadeInDown 1s ease-out 0.5s forwards;
+    }
+
+    header p {
+        font-size: 1.2em;
+        opacity: 0;
+        animation: fadeInUp 1s ease-out 0.7s forwards;
+    }
+
+    nav a {
+        color: #fff;
+        text-decoration: none;
+        padding: 10px 15px;
+        margin: 10px;
+        border-radius: 5px;
+        border: 1px solid #ff8c00;
+        transition: background-color 0.3s ease;
+    }
+
+    nav a:hover {
+        background-color: #ff8c00;
+        color: #fff;
+    }
+
+    /* General Section Styling */
+    .container {
+        width: 85%;
+        margin: auto;
+        padding: 60px 0;
+        overflow: hidden;
+    }
+
+    section {
+        background-color: #fff;
+        padding: 40px;
+        margin-bottom: 30px;
+        border-radius: 8px;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
+        opacity: 0;
+        transform: translateY(30px);
+        transition: opacity 0.5s ease, transform 0.5s ease;
+    }
+
+    section.show {
+        opacity: 1;
+        transform: translateY(0);
+    }
+
+    h2 {
+        color: #ff8c00;
+        border-bottom: 3px solid #ffb347;
+        padding-bottom: 15px;
+        margin-bottom: 30px;
+        font-size: 2.5em;
+    }
+
+    /* About Section */
+    #about p {
+        line-height: 1.8;
+    }
+
+    /* Skills Section */
+    .skills-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+        gap: 20px;
+    }
+
+    .skill-item {
+        background-color: #fff3e0;
+        padding: 20px;
+        border-radius: 6px;
+        text-align: center;
+        font-weight: bold;
+        color: #ff8c00;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+        transition: transform 0.2s ease-in-out;
+    }
+
+    .skill-item:hover {
+        transform: scale(1.05);
+        background-color: #ffe0b2;
+    }
+
+    /* Projects Section */
+    #projects ul {
+        list-style: none;
+        padding: 0;
+    }
+
+    #projects ul li {
+        background-color: #f9f9f9;
+        padding: 20px;
+        margin-bottom: 15px;
+        border-left: 5px solid #ffb347;
+        border-radius: 4px;
+        box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+    }
+
+    #projects ul li strong {
+        color: #ff8c00;
+        font-weight: bold;
+        display: block;
+        margin-bottom: 5px;
+    }
+
+    #projects ul li a {
+        color: #77aaff;
+        text-decoration: none;
+        transition: color 0.3s ease;
+    }
+
+    #projects ul li a:hover {
+        color: #5c85d6;
+    }
+
+    /* Footer */
+    footer {
+        text-align: center;
+        padding: 30px;
+        background-color: #333;
+        color: #fff;
+    }
+
+    /* Animations */
+    @keyframes fadeInDown {
+        from {
+            opacity: 0;
+            transform: translateY(-20px);
+        }
+        to {
+            opacity: 1;
+            transform: translateY(0);
+        }
+    }
+
+    @keyframes fadeInUp {
+        from {
+            opacity: 0;
+            transform: translateY(20px);
+        }
+        to {
+            opacity: 1;
+            transform: translateY(0);
+        }
+    }
+</style>
+
+</head>
+<body>
+<header>
+<div class="container">
+<h1>StickyCoolDev <br /> Hujaifa Hanif Shainik</h1>
+<p><b>Cool!</b></p>
+<nav>
+<a href="#about">About</a>
+<a href="#skills">Skills</a>
+<a href="#projects">Projects</a>
+</nav>
+</div>
+</header>
+<div class="container">
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Hello, I am <b>13</b> year old young developer from Bangladesh. I think programming and game development is cool. my current <b>GPA is 3.88</b></p>
+        <p>Currently, I am trying to learn different programming languages and trying to grow my skills and improving my academic grades</p>
+    </section>
+
+    <section id="skills">
+        <h2>Skills</h2>
+        <div class="skills-grid">
+            <div class="skill-item">Python</div>
+            <div class="skill-item">C++ (Simple)</div>
+            <div class="skill-item">Golang (Simple)</div>
+            <div class="skill-item">C# + MAUI</div>
+            <div class="skill-item">Flutter Dart</div>
+            <div class="skill-item">Git</div>
+            <div class="skill-item">Docker</div>
+            <div class="skill-item">Godot</div>
+        </div>
+    </section>
+
+    <section id="projects">
+        <h2>Projects</h2>
+        <!--
+        /* 
+        <p>This is where you can showcase your projects! For each project, you might want to include:</p>
+        <ul>
+            <li>
+                <strong>Project Name:</strong> A brief title for your project.
+                Description: What the project does and what technologies you used.
+                <a href="#">Link to GitHub (if available)</a>
+            </li>
+        </ul>
+        <p><em>Example Project:</em></p>
+        <ul>
+            <li>
+                <strong>Simple Calculator App (C# + MAUI)</strong>
+                Description: A basic calculator application developed using C# and MAUI for cross-platform compatibility. It handles standard arithmetic operations.
+                <a href="#">Link to GitHub (if available)</a>
+            </li>
+        </ul>
+        -->
+    </section>
+</div>
+
+<footer>
+    <p>&copy; 2025 StickyCoolDev. All rights reserved.</p>
+</footer>
+
+<script>
+    // Basic scroll reveal animation
+    const sections = document.querySelectorAll('section');
+
+    const observer = new IntersectionObserver((entries) => {
+        entries.forEach(entry => {
+            if (entry.isIntersecting) {
+                entry.target.classList.add('show');
+                observer.unobserve(entry.target); // Optional: only animate once
+            }
+        });
+    }, { threshold: 0.15 }); // Adjust threshold as needed
+
+    sections.forEach(section => {
+        observer.observe(section);
+    });
+</script>
+
+</body>
+</html>
