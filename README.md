@@ -1,4 +1,4 @@
-![cool](https://github.com/user-attachments/assets/3e17bb9a-6aea-4650-ab5f-8921aa99c042)
+![cool](https://img.itch.zone/aW1nLzE3NjkzMTQ3LnBuZw==/original/RqA8hW.png)
 
 <h1 align="center">Hi I am Sticky</h1>
 
